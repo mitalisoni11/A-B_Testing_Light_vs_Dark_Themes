@@ -22,6 +22,6 @@ For each metric, a two-sample t-test was used to test the null hypothesis that t
 
 ## Technologies Used
 * Python: for data analysis and hypothesis testing
-    Libraries: pandas, matplotlib, seaborn, scipy
+    - Libraries: pandas, matplotlib, seaborn, scipy
 * Jupyter Notebook: for documenting the analysis and presenting results
 
